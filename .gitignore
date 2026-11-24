@@ -1,1 +1,8 @@
-.venv/\n__pycache__/\n*.py[cod]\n.sparkStaging/\noutputs/*\n!outputs/.gitkeep\n
+.venv/\n__pycache__/\n*.py[cod]\n.sparkStaging/\noutputs/*\n!outputs/.gitkeep\n.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.sparkStaging/
+outputs/*
+!outputs/.gitkeep
