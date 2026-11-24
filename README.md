@@ -99,3 +99,5 @@ python -m unittest discover -s tests -v
 - Apache Spark documentation: https://spark.apache.org/docs/3.5.6/
 - Apache Sedona documentation: https://sedona.apache.org/latest/
 - Apache Sedona Python installation: https://sedona.apache.org/latest/setup/install-python/
+
+Improve retail sales analytics module
