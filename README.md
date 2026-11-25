@@ -101,3 +101,4 @@ python -m unittest discover -s tests -v
 - Apache Sedona Python installation: https://sedona.apache.org/latest/setup/install-python/
 
 Improve retail sales analytics module
+Improve GeoPulse retail mobility documentation
