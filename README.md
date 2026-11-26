@@ -102,3 +102,17 @@ python -m unittest discover -s tests -v
 
 Improve retail sales analytics module
 Improve GeoPulse retail mobility documentation
+Development Workflow
+
+GeoPulse development follows these stages:
+
+1. Data collection and preparation.
+2. Data validation and cleaning.
+3. GPS data processing using Python and PySpark.
+4. Spatial analysis using Apache Sedona.
+5. Store catchment and footfall analysis.
+6. Retail location comparison.
+7. Data visualization and reporting.
+8. Testing and documentation.
+
+Each stage is developed and tested incrementally to improve the reliability and accuracy of the platform 
