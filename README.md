@@ -1,4 +1,4 @@
-# GeoPulse
+i# GeoPulse
 ### Hyper-local Retail Mobility Analytics using Apache Spark and Apache Sedona
 
 GeoPulse is an educational geospatial analytics project. It uses **PySpark** to process retail visit records and **Apache Sedona** to perform spatial distance analysis between customer activity points and retail stores. It produces CSV summaries and visual charts.
